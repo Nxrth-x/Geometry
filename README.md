@@ -1,6 +1,6 @@
 # Analytic Geometry
 
-This is a library done in collaboration with [Élida Castro](https://github.com/elidacastro). To sum it up, it is a collection of functions for solving Analytic Geometry problems using Python. With this library you can do stuff like:
+This is a library done in collaboration with [Élida Castro](https://github.com/elidacastro) and [Victória Sampaio](https://github.com/suzuyay). To sum it up, it is a collection of functions for solving Analytic Geometry problems using Python. With this library you can do stuff like:
 
  - Calculate the distance between two vectors
  - Calculate the area of a triangle
