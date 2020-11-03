@@ -114,6 +114,6 @@ Returns `[15, -24]` as the result.
 
 ## Aknowledgments
 
-Special thanks to [Élida Castro](https://github.com/elidacastro) for the massive help in developing this project, and also massive thanks to [Victória Sampaio](https://github.com/user/suzuyay) helping us in writting tests for the library.
+Special thanks to [Élida Castro](https://github.com/elidacastro) for the massive help in developing this project, and also massive thanks to [Victória Sampaio](https://github.com/suzuyay) helping us in writting tests for the library.
 
 This ReadMe file was made using [Dillinger](https://dillinger.io).
