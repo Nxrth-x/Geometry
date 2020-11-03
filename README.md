@@ -8,7 +8,7 @@ This is a library done in collaboration with [Élida Castro](https://github.com/
  
 ## Dependencies
 
-You don't need any third party librarires to use this, but we strongly recommend having [NumPy](https://github.com/numpy/numpy) installed in your machine. The following command will do it for you.
+You don't need any third party librarires to use this, but we strongly recommend having [NumPy](https://github.com/numpy/numpy) installed in your computer. The following command will do it for you.
 
 ```
 $ pip3 install numpy
