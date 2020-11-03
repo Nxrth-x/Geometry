@@ -34,7 +34,7 @@ import geometry as geo
 
 ## Examples
 
-##### Midpoint method
+#### Midpoint method
 This method calculates the mid point between two vectors
 
 ```
@@ -43,7 +43,7 @@ geo.midpoint([5, 1], [-2, -9])
 
 Returns `[1.5, -4]` as the result.
 
-##### Distance method
+#### Distance method
 Calculates the distance between two vectors
 
 ```
@@ -52,7 +52,7 @@ geo.distance([-3, 11], [2, 1])
 
 Which will result in `13`.
 
-##### Scalar product method
+#### Scalar product method
 This method calculates the scalar product between two vectors
 
 ```
@@ -61,7 +61,7 @@ geo.scalar_product([-5, 6], [4, 3])
 
 This results in `-38`.
 
-##### Modulus method
+#### Modulus method
 The modulus method returns the modulus of a given vector, example:
 
 ```
@@ -70,7 +70,7 @@ geo.modulus([-23, 24])
 
 Which will result in `33.24`.
 
-##### Angle method
+#### Angle method
 This method recieves two arrays as parameters and returns the angle formed between them.
 
 ```
@@ -80,7 +80,7 @@ geo.angle([-5, 6], [4, -3])
 This example results in `166.68` degrees.
 
 
-##### Orthogonal projection method
+#### Orthogonal projection method
 This method recieves two arrays as parameters and returns the orthogonal projection.
 
 ```
