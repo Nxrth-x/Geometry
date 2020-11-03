@@ -110,7 +110,7 @@ geo.cross_product([5, -6], [4, -3])
 Returns `[15, -24]` as the result.
 
 ## Author
-- Eder Lima - [GitHub](https://github.com/users/Nxrth-x) - [LinkedIn](https://linkedin.com/in/lima-eder)
+- Eder Lima - [GitHub](https://github.com/Nxrth-x) - [LinkedIn](https://linkedin.com/in/lima-eder)
 
 ## Aknowledgments
 
